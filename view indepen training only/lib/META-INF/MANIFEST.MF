@@ -1,0 +1,1558 @@
+Manifest-Version: 1.0
+Created-By: 1.3.1 (Sun Microsystems Inc.)
+
+Name: com/cloudgarden/speech/CGAudioManager$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wxzdhILbdFbTF6FEc/3Lr580eVY=
+MD5-Digest: xekz8z4AkzheLAIE1M4oVg==
+
+Name: com/cloudgarden/speech/CGAudioManager$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: KJcLdgGpO7c5P0soTIRAPS1H1Ro=
+MD5-Digest: 0JArPMFNoYuXqL3+OFOpaA==
+
+Name: com/cloudgarden/speech/CGAudioManager$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ikOPW/RVo4HpdL+9+QaoBPb2J5w=
+MD5-Digest: Il79loit3AnbSZW++/Z3QQ==
+
+Name: com/cloudgarden/speech/CGAudioManager.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AA9WiD1ueb+m8TPmfHKPnZ9Od9M=
+MD5-Digest: iUb8M2CwOWdbbwCktlR0Hw==
+
+Name: com/cloudgarden/speech/CGDictationGrammar.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: OTm3FyfCNF4Zwvuq4j5gpvFsr3Q=
+MD5-Digest: YsR6fmz3bXMlt/ufKN6OYQ==
+
+Name: com/cloudgarden/speech/CGEngine$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6bpFkuiOxFoaD8dz7/O1O4VXebI=
+MD5-Digest: ATzU2DPKqXgRuXlw8WToow==
+
+Name: com/cloudgarden/speech/CGEngine$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: pnRNSkACvuuQ+ZG6LzEJj22/ZJI=
+MD5-Digest: fXmKuSRk0sfX8VDGp2ECfQ==
+
+Name: com/cloudgarden/speech/CGEngine$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wnuUN3j7obOXoLTICytSY7DYPVg=
+MD5-Digest: d+eBT8vP8lbyJjSMY1ft9w==
+
+Name: com/cloudgarden/speech/CGEngine.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WFGYBahG2vEZ3qHNlluF4fWqh5M=
+MD5-Digest: qjL20PXEP/jqej8fJm99gw==
+
+Name: com/cloudgarden/speech/CGEngineCentral.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: sqJANiOfXn2ajTXlntApezPBUt8=
+MD5-Digest: FutIz1X7fQijFJfD/xH0+Q==
+
+Name: com/cloudgarden/speech/CGEngineProperties.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6riVAmRGsRD7aHWePlcHEfRwR/8=
+MD5-Digest: QkKV9CrsbV910VmS6Yc6nA==
+
+Name: com/cloudgarden/speech/CGGrammar.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: pIxDWmD0BI2vZt3syknOpgyCNKY=
+MD5-Digest: uKZ8X+22wyJ9zmF8owhA4Q==
+
+Name: com/cloudgarden/speech/CGNotifier.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QVd19JZ5GAqn22tr+zPGAeyrXD8=
+MD5-Digest: Eqgf0MFaYmCpFCEIFSDwvg==
+
+Name: com/cloudgarden/speech/CGRecognizer$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: phWqshbtjnTTRmrQcg7XhFpahfQ=
+MD5-Digest: lh+1bZwplX2ewsj5F9WCAA==
+
+Name: com/cloudgarden/speech/CGRecognizer$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 7hnBR3UU6lVL9omKC2u1YAlstZQ=
+MD5-Digest: Eq/1jluClm3OFsMcIIvZRg==
+
+Name: com/cloudgarden/speech/CGRecognizer$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iKBvcpAxyUR2LqSYoAqtrpElgK0=
+MD5-Digest: M71VFzSMc9jjVmZEZlZ1WA==
+
+Name: com/cloudgarden/speech/CGRecognizer$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: B06MDrwjhPq8q+4hNs6vVjF5U3g=
+MD5-Digest: 4CXjjiqfJ2qxo1351ddvcw==
+
+Name: com/cloudgarden/speech/CGRecognizer$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Bw9mBxOXajmEK1I1NLfWP9GZQzA=
+MD5-Digest: bjMtF3t5F6E2+n88zFitJg==
+
+Name: com/cloudgarden/speech/CGRecognizer$6.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: prjylEHzb5MnFjbRZIe8+fwM000=
+MD5-Digest: 54q4cJmdizjXNzV2bDZA7A==
+
+Name: com/cloudgarden/speech/CGRecognizer.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: oJJIPISQ/ZpTjd5M4oAJ70Hu9ro=
+MD5-Digest: 7JTLljdlq8rfTtBL5bNsUA==
+
+Name: com/cloudgarden/speech/CGRecognizerModeDesc.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RHez9ifOjrNTsXhVZ3C4gjzmpgY=
+MD5-Digest: 7xmnFBII65bmx0TytCMJjA==
+
+Name: com/cloudgarden/speech/CGRecognizerProperties.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: x5Ntq7Ni+TS0HkQslwQsB3euF9k=
+MD5-Digest: b6SOsUpoy28hIu4LFwupow==
+
+Name: com/cloudgarden/speech/CGResult.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /rlmBQcBy9hORrKHS4vE/IBSHx0=
+MD5-Digest: c8g2HZ7suKl2bsq0ZNJ9ew==
+
+Name: com/cloudgarden/speech/CGResultAudioClip.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QIavovtL5xyk3c3FVpZDZZwqBB4=
+MD5-Digest: dwfZWAkDzbpE7NoK8x2agA==
+
+Name: com/cloudgarden/speech/CGResultToken.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PB9Phaj46n77fyioW9Ngh+liMFQ=
+MD5-Digest: KWcFpXUwAryQQpx8hB+wFw==
+
+Name: com/cloudgarden/speech/CGRuleAlternatives.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dsI8aBc+KomUf66LgGZx8lv8sV4=
+MD5-Digest: f9CgLWDywZRkRYBIKMiTrg==
+
+Name: com/cloudgarden/speech/CGRuleGrammar.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AaEWS3tTWRd7ret5Pv0wS18iTxw=
+MD5-Digest: 7MVcb1xiTG/3Otmv3km8tw==
+
+Name: com/cloudgarden/speech/CGRuleToken.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: O+VqcYYAue9J+xZybbPuT1Nnx9w=
+MD5-Digest: SL31a3YgUA/smjmh9Hic7A==
+
+Name: com/cloudgarden/speech/CGSpeakableAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1WuhZS/BEWL0tZFoPwC38E3nwkw=
+MD5-Digest: gBZ7taK2N3svG4cohMbmVQ==
+
+Name: com/cloudgarden/speech/CGSpeakableEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: q6GyiSror3VStTR4rpNIYsnYR8k=
+MD5-Digest: OsBt4Wjcljgx2qO5eYvowg==
+
+Name: com/cloudgarden/speech/CGSpeakableListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: jekhvpTBnIPnrpfeToBlBODar8s=
+MD5-Digest: XMt32IsGCUPJnIbECINQYQ==
+
+Name: com/cloudgarden/speech/CGSpeakerManager.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qdeXaYxetQkvmHpHobHFBwLNRnY=
+MD5-Digest: qg9wcS7AnQsuqYRMYEem8A==
+
+Name: com/cloudgarden/speech/CGSynthesizer$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: JfGS9CzIuls8120PKilNHZnh9Fc=
+MD5-Digest: j6vcIjQxAFcC8wrR7dwuZA==
+
+Name: com/cloudgarden/speech/CGSynthesizer$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: MzUCs0q4KJsNtmxVT9SYRgOlous=
+MD5-Digest: gpX1U1OXIkqB1AidGipAtQ==
+
+Name: com/cloudgarden/speech/CGSynthesizer$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: FLFPdG2EhpbUrX4fLuBu452YZLM=
+MD5-Digest: C8lbRk21oHWT3sv3faTz7Q==
+
+Name: com/cloudgarden/speech/CGSynthesizer$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: tJhkKXPYefGWRLc7dQbf78asVDE=
+MD5-Digest: JE3MITfUNofeuJxCxUlQaQ==
+
+Name: com/cloudgarden/speech/CGSynthesizer$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: +6MyW2fjB37q0+6BQ+BIvbJF7ac=
+MD5-Digest: JPV5KKo6moOWy7sk41OVpw==
+
+Name: com/cloudgarden/speech/CGSynthesizer.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dR1gVgEFkCxVLzB/9eohJCLZpGU=
+MD5-Digest: 3adJg9/x0G11vKrr5803Lw==
+
+Name: com/cloudgarden/speech/CGSynthesizerModeDesc.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: SfTrSjVmufEuUDjerTJYTUFNDr8=
+MD5-Digest: XKMFl7cegHpsKyE6OCuppA==
+
+Name: com/cloudgarden/speech/CGSynthesizerProperties.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: jW89G9BWoqU3g/eYoneqeuoT9Ms=
+MD5-Digest: qAmr5kac8xtWd6qVGbR4qw==
+
+Name: com/cloudgarden/speech/CGVocabManager.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: W9EDJ7XfvjBlZpBpFzDzQ18GtRw=
+MD5-Digest: sh1ti/PsAkBjiedTnltzNA==
+
+Name: com/cloudgarden/speech/CGVoice.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 36Xd4QIr3RPU2wJH1mf8CBK49Aw=
+MD5-Digest: jF1MvvMgJen7eWOKQTaJzw==
+
+Name: com/cloudgarden/speech/CryptTest.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6UvdGXJDsRE1hOxPXl8msX+W4qc=
+MD5-Digest: cMrmMSkDQ0/lFGLbAp91RA==
+
+Name: com/cloudgarden/speech/JSGFParser.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: uprnwVu4cb4VZA2vKxhBEr1ENx8=
+MD5-Digest: QmZPcM8mx5prngz42obE3w==
+
+Name: com/cloudgarden/speech/LangToLocale.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: gJe4NId6qMEMZQsVEM+pMLS+HfA=
+MD5-Digest: Dgtj639VOut2DOo+N7R2/A==
+
+Name: com/cloudgarden/speech/LineGetter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ynQlViWjglg0zRO4oNzZJr0IBPs=
+MD5-Digest: dbD9kasMWN8aul9WgoGuYA==
+
+Name: com/cloudgarden/speech/ParseState.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: l5i6EiReYvv8rspI/dPNqUQLjs4=
+MD5-Digest: am8Z3MdJWDJGx784dDn4nw==
+
+Name: com/cloudgarden/speech/RuleInfo.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: sEk4IdNr1Vbs3G0YFiaQhpXXpjk=
+MD5-Digest: y+JegvrlvdykYrueWcb+4w==
+
+Name: com/cloudgarden/speech/RuleParser.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LeHH09zidYs8e7mfCFgy7FURWRE=
+MD5-Digest: av4IFNn/8uIfEY7FWL8ZZQ==
+
+Name: com/cloudgarden/speech/RunnableSpeechEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: nAdRKCUoOi9bT1fTJ2Hwcj75D3c=
+MD5-Digest: oKHuvPQE4mMEveJNrZbYpg==
+
+Name: com/cloudgarden/speech/Security.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: peR/+hHkkq2SI1sLL1iG2nDT16A=
+MD5-Digest: cdoaSjHPyz13HXhR8WDCgA==
+
+Name: com/cloudgarden/speech/SpeechEventQueue.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: EVTYtUmLJBfrudkRa2FH4nkPyhY=
+MD5-Digest: 4f17kYPtS+9QdUH7w5FvaQ==
+
+Name: com/cloudgarden/speech/SpeechEventThread.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: y/ct7qminT2WVT+O5mZjBvsZfss=
+MD5-Digest: uVpSXh+ZaL3WbE48NVoYMA==
+
+Name: com/cloudgarden/speech/UIWindow.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: eIr8I1dD5HIia1A9eKuYHQ1FXv4=
+MD5-Digest: CgijsGpx0iPpphkTQ98GuQ==
+
+Name: com/cloudgarden/speech/Utils.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 9z8/6xBbwMmD//SyxLW4VrtMVhU=
+MD5-Digest: JZWOtsiewGELTW+UOwtWbw==
+
+Name: com/cloudgarden/speech/Version$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: R6PKFhXmn3UMT+J8Q36Ps4tiZvU=
+MD5-Digest: sbFWdhriBOMEmO0H2BQYgA==
+
+Name: com/cloudgarden/speech/Version$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ON2qKhIsN11qXm3oZnM515Almdg=
+MD5-Digest: Lwp7hvUWe+gsp4e2sMMp/w==
+
+Name: com/cloudgarden/speech/Version.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 3i2aaJzz3BL6b+nyem2sddTE+PI=
+MD5-Digest: y+o4MTb6z1eSbrHL3SZmHg==
+
+Name: com/cloudgarden/speech/XMLTag.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: it9NiACRPu+hG14LaXjja734IDs=
+MD5-Digest: shHJFBR9vyicKI/AwOO1eQ==
+
+Name: com/cloudgarden/loader/Loader.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: JAuUBjdcKf/8rE8AmzrSx8Oosgk=
+MD5-Digest: LldPtbpemH4K3+gX9ozIUQ==
+
+Name: com/cloudgarden/loader/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: df9I3YPJsM4njfue8MZFhOhhIRM=
+MD5-Digest: uWCJ6MfsxBFceJMSsGrWIQ==
+
+Name: com/cloudgarden/speech/userinterface/BasicTreeNode.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: i/JMwDnc7iU5mgFBMkbN8E415hE=
+MD5-Digest: A+Si/A0zJSitVowAeVxAXg==
+
+Name: com/cloudgarden/speech/userinterface/CGTreeNodePanel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: pEsfTlvmjAa855yPUlSpvmP+7XQ=
+MD5-Digest: t8fMq+tR4CduO6SK1h7wmA==
+
+Name: com/cloudgarden/speech/userinterface/CGTreeSelectionModel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lzBrIgwAexmxhSIJHhudDKocf5U=
+MD5-Digest: WDBuVN76rUBXHnatxuODTw==
+
+Name: com/cloudgarden/speech/userinterface/Mouth$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: W6iH3t5ljOR5vaHKVrUyyPjCDv0=
+MD5-Digest: b2897mjsNkIW27aSbXMYLw==
+
+Name: com/cloudgarden/speech/userinterface/Mouth$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HozjsxD3oER3aC8uUaRpSEJh4og=
+MD5-Digest: EnIJfvgmP5QCviheRTyN2w==
+
+Name: com/cloudgarden/speech/userinterface/Mouth.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1Qkyqm6IoiLWLrM84pBdlKCdBLg=
+MD5-Digest: Ml0UHCqi/iilawCzKSDFhg==
+
+Name: com/cloudgarden/speech/userinterface/MouthPainter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: bxzOtTWIgP8uo4eegvx4HRSbp9g=
+MD5-Digest: 4XQcvXH1PBmYN9Oewj8CaA==
+
+Name: com/cloudgarden/speech/userinterface/NodeRenderer.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 4ofcp4bJN3rICTWC7gxv9BAbRGU=
+MD5-Digest: wxSaVTggyNrmtuHkzcyWYA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerNode.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: YKjv0F6FHxR4oN3FtIHo7O1koLQ=
+MD5-Digest: SB7nl2uqg49jvKm+OB3rUA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: JlJO+giLik50VtNbcGEHRwB9dao=
+MD5-Digest: r3Ze94Ndmj7JmxxPJaTm8w==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$10.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: EJBsJIp+e8sLgTh5iOve4Y4eOcY=
+MD5-Digest: 04wGmI9amG+VfcYzAz4t0g==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$11.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PE+Wet8jQBoYQ5CQ4ODGRodVKXY=
+MD5-Digest: BmjCqmO54Wbq2c8KgbZBsw==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$12.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 5axHCfFg8AgpP2J+oaxOQwj/JoM=
+MD5-Digest: WjOGJgcLeDEHfLmr9QC1iA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$13.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lkpiKBaRouuSWxuluTOHA91L8so=
+MD5-Digest: NZdaNd6n76jbwdmDgL7DgA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$14.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ITDBgQOjYooJEbdPR38D5pV1Kc4=
+MD5-Digest: EjokAQqZaP/q+P02Jhdq2A==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: oIAlHQ+X4BRIxnMYXlj5TOTlON8=
+MD5-Digest: 6702OE7Xnh+OaI6neV/IMA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 9UTdlSELteBUc6wwwMn9Uvzi3SI=
+MD5-Digest: RvvUdjVsUP1RGcyLjVetwQ==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1KjtFB4xTENft0l7b0qGthrP/H8=
+MD5-Digest: +mFKtxCHeWRFjgCqsZRFtg==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 18SG+4m5FlZqmohihjuYzSmCfvM=
+MD5-Digest: f4facp6Exv1W0gB3CZ1ofA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$6.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Zk9CUtxfWpO4QKqsc06y7D4ZOGA=
+MD5-Digest: TFyHRlirl5OKkvzATIh7Tg==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$7.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 367W/sa5AsCgJMkJHz9wwD9dmY0=
+MD5-Digest: Urj2TDFkjOYL1PX7sMmiCA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$8.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0d9EezNQQzBhszSbTPmXrnIXXrk=
+MD5-Digest: E7Szaf5FetMDXIshGRoULA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel$9.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: jkkn2R8jch4/iQSH8uNXhPamHqk=
+MD5-Digest: omtJW2uccg/7nOmF48BuxA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerPropertyPanel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 92XOLJwoOsxhFgTaJR940IxIWZg=
+MD5-Digest: KNi+LjRltNOo20P17m4rgw==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: kgfkwRrmPnyjCAIXUuE4Cb6LuUg=
+MD5-Digest: zUu1nT3WxOSbrhur458/oA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Vfvb9TSq/eqA1X3WRS+dBI5c4SE=
+MD5-Digest: KDTEvlALk1ty5Q40O7StkA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iKjRFAtnDwUgngWUkGEwyVGPsVI=
+MD5-Digest: Pdj/A7uZoSzrN0XioX2BPA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Ap7uJvrJNmTCgdH1zUvghFMevOs=
+MD5-Digest: GjrbHd3rgnkLo4W9j4iYvQ==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6ft3ZNsffIawNFDnY1LUlzxi/Y4=
+MD5-Digest: D5Kc8BdKdFwADJ0zVPZJ1Q==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$6.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 9jgkNBtR9H+PN6OQIl2ajzVPQsk=
+MD5-Digest: 23lmA6OwQopEMsvlpS0znA==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester$7.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: spqhjuAQoHKc1Xs2ZcCDACMWve4=
+MD5-Digest: t3Duhp6QZa0tvs4uMmg1lw==
+
+Name: com/cloudgarden/speech/userinterface/RecognizerTester.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: b0JxEI01o8c4ZxjbTR9ftGXFZqw=
+MD5-Digest: WVMc57dLwcDqfIXZJom8CQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeakerProfileNode.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: A55Ni+SH1/LHkh6c1LnbWKMeA2Q=
+MD5-Digest: YSDKjvOr/N7UPQNU8Z3rWw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: xeKUTGnDW1JyEWz+D2pF7Ly0Mw0=
+MD5-Digest: nm1XwmRfetHCycms/usjXQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$10.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: JtG/4chEH6Y8C0hulKJG0+XutJc=
+MD5-Digest: tDmMvHR+wKrKTqBQWN/Ihw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$11.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Hyze/T5KBNsH0HRM9k96ScpL7oM=
+MD5-Digest: ayaM850p+Y2tLL/fCWGewg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$12.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: a8LWRJKrHndeDyskc3iM8OnVkn0=
+MD5-Digest: YQDZQxQ6SZugTa5ivFLJgg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$13.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: bI28c+Zqz4Ye9g4o5O5RjnDGGSw=
+MD5-Digest: hZwtceKIAHFVDchoIVN5cw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$14.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: O9U1Oxwoe7svvmSbdbU2kqb9N9o=
+MD5-Digest: GGQa37SZ5Wxo9pHaFshPWw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$15.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qTza/Q0v7txZOCnzN5+wD232VOY=
+MD5-Digest: deXmPgkoPCeDpJc9leA+TA==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$16.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HsjEUzEXO2W2FmJWsEm6e797b0w=
+MD5-Digest: lsaPk4McgKHQ2aDf3h450g==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$17.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TyXhRDI9ewZbpSXrph/iyu732Sg=
+MD5-Digest: 87z0zZWp+BP3Bd7ugX5BFQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$18.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WnUuBQ/BEamVv3WtNLPMPytcIw0=
+MD5-Digest: TJ24FbAzMQBmOSZW4Lq1IA==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$19.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Xo+MnwFfU3s2V2RAesDjpoWBhWc=
+MD5-Digest: WIBgnGdPaIS/6K+/ze9+VQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: casQLFQC4IXCILgG59kTGVa51U4=
+MD5-Digest: VfpsJ8NPbSuQKSP5zb8Zqw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$20.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 10uoeq1nQ2FvH7yCwBqT1AoktgA=
+MD5-Digest: 6VY5mYCYjopMCiTEJXi+yQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: VLhWs3SYbgFVP6yq58/B0oeJuWs=
+MD5-Digest: 07Bqgutm9Yqp4EaFdqDaMQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /f1q7dJA1a/Gbxqu2GsUPifI+MA=
+MD5-Digest: 1wu0pvEeMpT6UfG5sEp+Zg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 3qE0b7vbCeK+g0rlLhXTRJXBK+o=
+MD5-Digest: eSpIHFFbHv14tXeQ+8pgnw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$6.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AAKGElasQcZYNkoQHAdTJSwmZDY=
+MD5-Digest: jQ0HMMTc+mu1b4D5TxIKxw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$7.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: GiXmcXez5PMIkPUJYElQtGtLDnI=
+MD5-Digest: 9XoyE48TbjKMEhE/LgQmQw==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$8.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: d3SVE0WJhS2hJnavDxsPeZ0cu8M=
+MD5-Digest: 7AzIRZEvAZaNY+2hgXZwMA==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel$9.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0E0KIW6Rsi1ZXvRJNjkL4xPgs7g=
+MD5-Digest: foLYduJD9FZiySe9chu7fQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechControlPanel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1KRzeYkQwMtulGlMp35rEdXLpTE=
+MD5-Digest: ZRafbUJJvkEmq24DI6PayQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineChooser$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: knS45kvU6NxV1EX1BkV+kbxITGU=
+MD5-Digest: wG/W0sBKr9wzP/xXCGjxhQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineChooser$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6OIAO1YZjNAx1Y+TbDmCcTjk38s=
+MD5-Digest: KTa52Jmx0d+gvPfnAq1ogg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineChooser$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: GySwo3RDMNKtXm/Qmscf5tzFTMQ=
+MD5-Digest: OaH6qnDwyBycSg4H6wlPxA==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineChooser$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wzpHDlEDZDuyuPKze4rc4wWVxg8=
+MD5-Digest: u5jSZIp5a9KjwjgzXphI0A==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineChooser$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: d4XrJb2zSM/9aBPGGA6IwEJLM6k=
+MD5-Digest: RRdNC6DEsJRhPewu0pu1ug==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineChooser.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: s1vB33hIohXFUKwLjBrGaZdrtPY=
+MD5-Digest: hpZ4ZVMOVTWZk4jD7WtMbQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineTree$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /+e1qNKDNVj072RwX0dmW744f/E=
+MD5-Digest: LgRCtMkYOg5NjoYoZK7NyQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineTree$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ihD4fSC8cFgKtMeSnBBaHSPvShI=
+MD5-Digest: f/xuqbeSu955fo4vl/bwmg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineTree$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: xBt60On5dFcXb4s4B5NQW6zvBgY=
+MD5-Digest: z/bFInPZvXgQEumemboVbQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineTree$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PPUtvdwJZWPYipvyHP6Wb6U2LLo=
+MD5-Digest: nRZ3x9oGbnVnIegP9DLzJg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineTree$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WYFB+0UdBG4/ku5A5pluuKVZkrE=
+MD5-Digest: 8FC5km2TElGS5AfsnPy59Q==
+
+Name: com/cloudgarden/speech/userinterface/SpeechEngineTree.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: z5r/Sqb3xraZi11jadqSg4YyGeU=
+MD5-Digest: BncaLcc7G7ZJu/cv5A2LwQ==
+
+Name: com/cloudgarden/speech/userinterface/SpeechNode.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: hIUimYMT2c9GlikjTAufZlQDAn0=
+MD5-Digest: xUMSk+uKfQv5bA7xlKITcg==
+
+Name: com/cloudgarden/speech/userinterface/SpeechNodeListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: yeK65+qoSF/xiKbbnQTqQxK0pt4=
+MD5-Digest: reJmzuH/eQd9b3bSAWmRfw==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerNode.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1Lx5UoO3JmyI9fORmYfyhwv0ox0=
+MD5-Digest: ZMkd3kRW4I3Y8pCe3+qWsA==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: nn3LaUjtIKYsYLp/qwbKMvcbekU=
+MD5-Digest: VGBXlbDCFoh2BAU98k9MyQ==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$10.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 8qNc5Gyn5Dvxs8AqD4fGsWsYsmU=
+MD5-Digest: hVpqj9uIX5DaZeyPLIT2Sw==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$11.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: IgeYPNOyI9CTz2SrJ1U/f/3gB9U=
+MD5-Digest: MrqUymr3QGFHCXPIv+UYkw==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: aKLfopY8r334yt5Tn0KRBNeeNIg=
+MD5-Digest: VksaV1UM2oKT3NoAAJfx4A==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1Y+NbVK2kn/m6HEuhhVES8SCUPw=
+MD5-Digest: JFngumNZTXvJ3P3cESWMdQ==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: UvHec8vZAQ6ZIP3B5NvS37O2LNg=
+MD5-Digest: dccFQz4X+UnnocQwJAt+fA==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PTvjPNrBhGaui5aNiOy1ggTAU98=
+MD5-Digest: I4JdQqAqOfbTggkCpbFQLg==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$6.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: OgwsNPXA1GZxQgit++cq1V79xcA=
+MD5-Digest: C+Br0v47c5Qoh5BM4/aLHg==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$7.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: cqr6JcZ+pROUcXm6piIFsPW8rKs=
+MD5-Digest: o75AMAmFr68RIAB7QspF0Q==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$8.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: GGIpGhatcG99Mw0MW7KI8f6v/Wo=
+MD5-Digest: lVvC0ge2IRIoex9NxUvc5g==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel$9.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: M2sxxKGXrcukc+UaSAySDAj6XLI=
+MD5-Digest: wf/HcKXMSPN0h9W46cP9PA==
+
+Name: com/cloudgarden/speech/userinterface/SynthesizerPropertyPanel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: r9OuuMPuhGFzDZvAiVC+DJHrLEU=
+MD5-Digest: Weep0h2rESN3ILWG5YN5mw==
+
+Name: com/cloudgarden/speech/userinterface/Utils.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /yTpXagDy2E8ecrIlXfyCrK2tqk=
+MD5-Digest: Sk5sRkENTpyXswzJlJIoKQ==
+
+Name: com/cloudgarden/speech/userinterface/VoiceNode.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WP6On/bj7WtGqyo8wdXCdrsFtq0=
+MD5-Digest: 8YTZIDDyTXO6CgZlth8vYg==
+
+Name: com/cloudgarden/speech/resources/chimes.wav
+Digest-Algorithms: SHA MD5 
+SHA-Digest: BV4KxiZDwELBc5wzdMxXiPdHRCw=
+MD5-Digest: Cu9dZyG8mYsEjQKyR0Rn2A==
+
+Name: com/cloudgarden/speech/resources/down.wav
+Digest-Algorithms: SHA MD5 
+SHA-Digest: aFh+7j4S4TYBqwhr0iQC/m0Ozko=
+MD5-Digest: IUsqqXOi/W4vtKHxMYoOaQ==
+
+Name: com/cloudgarden/speech/resources/error.wav
+Digest-Algorithms: SHA MD5 
+SHA-Digest: dmMBmgctRUOIEy/BRdsKoOhJkPA=
+MD5-Digest: miMp73tDJ6ZL5O08Z4VZcQ==
+
+Name: com/cloudgarden/speech/resources/profile.gif
+Digest-Algorithms: SHA MD5 
+SHA-Digest: v1UyI6ayQui4ezMKMipmD5XnP7M=
+MD5-Digest: lpK4R6Xlc6J/HHhyUnsN1A==
+
+Name: com/cloudgarden/speech/resources/question.wav
+Digest-Algorithms: SHA MD5 
+SHA-Digest: UCLDFd2f179uFVTojcgwRCaqRFw=
+MD5-Digest: Eov7Gzy4M9Oj9XQqFf7mmw==
+
+Name: com/cloudgarden/speech/resources/recognizer.gif
+Digest-Algorithms: SHA MD5 
+SHA-Digest: CNvIw7FREOvuQZj9RElj2Ng/vpw=
+MD5-Digest: +bqVZkaB7O5KbYUApyX7ww==
+
+Name: com/cloudgarden/speech/resources/scrollCursor.gif
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ro+Fx+VIW+3bmYtdbnCJrlPnbuk=
+MD5-Digest: L0HKQBbn+lkwwFuLvxIiEw==
+
+Name: com/cloudgarden/speech/resources/synthesizer.gif
+Digest-Algorithms: SHA MD5 
+SHA-Digest: xCumJ5kclM7ldEdg+I5eqa++wyk=
+MD5-Digest: Zt7isi0Jbz1njxruAUq2dQ==
+
+Name: com/cloudgarden/speech/resources/tick.gif
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 92ziWWKvMP/HWbduVc1VFZUxYbU=
+MD5-Digest: uhxgbZ+jx4hjkjauTcFt/g==
+
+Name: com/cloudgarden/speech/resources/up.wav
+Digest-Algorithms: SHA MD5 
+SHA-Digest: xvqTvHZWV0AbxpWLkBwruF0CsWw=
+MD5-Digest: RmT85lpKkXEhnp2nTMYSXw==
+
+Name: com/cloudgarden/speech/resources/voice.gif
+Digest-Algorithms: SHA MD5 
+SHA-Digest: xNVwBFZRjKUjGn7wwe1hCEakUw4=
+MD5-Digest: LKk3zV3+Rka2QOqU67pTsA==
+
+Name: com/cloudgarden/audio/AudioClientSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AeCwFGuLa4ADYmNUYQOdF7LjAfQ=
+MD5-Digest: wbxFKQbLf8I/5oeR/HmJEw==
+
+Name: com/cloudgarden/audio/AudioClientSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: m0KmSEQK3XYqWWslPgzxoWI+lEE=
+MD5-Digest: h2mV2tACImqTav67HMgbqw==
+
+Name: com/cloudgarden/audio/AudioConnector.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: z4BRUFOGLrbe+o2gAJAN5ZFwi5Y=
+MD5-Digest: oK8vh3XTdilrR6fefJ552A==
+
+Name: com/cloudgarden/audio/AudioConverter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iKyLdQ/WPq43Izb2u2TSuVqg/U0=
+MD5-Digest: UGbTDGpnNuCR0OpaozL++g==
+
+Name: com/cloudgarden/audio/AudioFileSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: S9LWhw0dgCQfOM+m9m+gNopAT90=
+MD5-Digest: QkvOJSLLFxF6prS+xpQ+Bg==
+
+Name: com/cloudgarden/audio/AudioFileSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: A2oB/EGEeU41W4QyRHMfqS+eGBg=
+MD5-Digest: a4W+F4/t7WqDkgBRISMHug==
+
+Name: com/cloudgarden/audio/AudioFilterSource$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QyvAtCFw5HN7zC0RF8pFVSlbSpg=
+MD5-Digest: WrYDBk9IxzhaLRf1VkD9UA==
+
+Name: com/cloudgarden/audio/AudioFilterSource$a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: G7O8H7N4tqDeHUJoO3j2fgTbAX8=
+MD5-Digest: Gr4+lClkxIN2Pmnah2hKKQ==
+
+Name: com/cloudgarden/audio/AudioFilterSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QQ7tej8TUG4IVUPMnVI85AWd1xc=
+MD5-Digest: bGD8hbCfpmLHsDSAwG55NA==
+
+Name: com/cloudgarden/audio/AudioFormatConverter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RbjWul624YIibE78sShKrsQK670=
+MD5-Digest: TfCuIJYyQJqpU8atSpXjlA==
+
+Name: com/cloudgarden/audio/AudioInputServerI.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: u1Dwybuq3toxCHFiXfBlxGTozmI=
+MD5-Digest: AJ3A+3cRiMWL0jQ3U0/K0Q==
+
+Name: com/cloudgarden/audio/AudioLineSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RwL5sK4XCHhd+evNhwdArAlfEGE=
+MD5-Digest: U2DQIL3cv48x2n2h6WJBUA==
+
+Name: com/cloudgarden/audio/AudioLineSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: DInox9N9NfbkVJvTOWnnQSz4WPI=
+MD5-Digest: OZ1y6Ux6u7M7oQrKyPcufQ==
+
+Name: com/cloudgarden/audio/AudioMediaFormatConverter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: tyExxAsg/ggp4VSTHqfzIxkjR8I=
+MD5-Digest: 6sxTLVHntmHdU4pBr6Bn0g==
+
+Name: com/cloudgarden/audio/AudioMediaLineSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 7lOKByQETckK25E7Tp3IDU8o+XM=
+MD5-Digest: LEkulrMwOYgKnw2fhjf6IA==
+
+Name: com/cloudgarden/audio/AudioMediaLineSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0acmtJfXGxIabfgZjeEzWj2hNgk=
+MD5-Digest: JsINNFXuzmQTSbo+DlEdeQ==
+
+Name: com/cloudgarden/audio/AudioMediaURLSink$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: nmImJJBSrvrq0Mk/7fl5olDcgQs=
+MD5-Digest: 2nGb+7JoRukjVzqgvilDwQ==
+
+Name: com/cloudgarden/audio/AudioMediaURLSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2SGq6yfapaYemeqyZufGJyiaU10=
+MD5-Digest: m4/XRmoXzBFAXRiMjd/AYA==
+
+Name: com/cloudgarden/audio/AudioMediaURLSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6CEf66nEU8lsuHBF0VZrttPhqM0=
+MD5-Digest: MJbScAIgxLmuG3epWfBcMA==
+
+Name: com/cloudgarden/audio/AudioObject.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: o9tWyTUmHbflXrB8VBYr91IKkj4=
+MD5-Digest: +7kg8psdLdW9zgykC87Iow==
+
+Name: com/cloudgarden/audio/AudioOutputServerI.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: k13RexURnZjFCHBjw9TysnAWJbI=
+MD5-Digest: aGHYBImsGVKAkRM58zBN5Q==
+
+Name: com/cloudgarden/audio/AudioPipe.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 3G+6fuRlBhNnXBhFzxLR3UQcJ1o=
+MD5-Digest: bu7lu1mGodkTB9JBBa/B5A==
+
+Name: com/cloudgarden/audio/AudioServer.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 4YxGmw4vqhsfWTndNcXcNGPINow=
+MD5-Digest: fXrOV3yk86fuN4owmEqzEg==
+
+Name: com/cloudgarden/audio/AudioServer_Skel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 5sugv6LXXu7MZD1sGVj2p0a1IZE=
+MD5-Digest: B9muNIMGrRbzgW87Qx3cgg==
+
+Name: com/cloudgarden/audio/AudioServer_Stub.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: c1ujrqK9jYjMrVzi5Wwt+c6XqTw=
+MD5-Digest: SNFkNPU6m3zpuLZSMNwj8Q==
+
+Name: com/cloudgarden/audio/AudioServerI.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WFR/QsyvTOwiL/NSrlZ/jXfCQGI=
+MD5-Digest: KFtpuhxH+kbiWjJSu4pEqw==
+
+Name: com/cloudgarden/audio/AudioServerSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 4TWxAhBF69Hj+D47keA2nd53dMQ=
+MD5-Digest: zdoMuIRq+/srGyy3U2BtjQ==
+
+Name: com/cloudgarden/audio/AudioServerSink_Skel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: KRBK7m6nw8pRfiYRKZNQE0H5J3E=
+MD5-Digest: ZPgSpDrDgHD71VC9xkKH9A==
+
+Name: com/cloudgarden/audio/AudioServerSink_Stub.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iNWg6OTDIOIDYxhfhIMk9+NtC5U=
+MD5-Digest: 3uuLBGPPy8earv0oZ6cBnQ==
+
+Name: com/cloudgarden/audio/AudioServerSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: mNe6qNDcslgB9xYHw0bzoZTQtUM=
+MD5-Digest: r3budp5xxKCek6+TkAEXPg==
+
+Name: com/cloudgarden/audio/AudioServerSource_Skel.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: DRbPK+ivPWUM3GEDJG+8Sbpd+b4=
+MD5-Digest: +UeaReJgcx+CLZqb2qjQMQ==
+
+Name: com/cloudgarden/audio/AudioServerSource_Stub.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: uLFHuZas/ygCdPPuzaQ/GlQ2D4k=
+MD5-Digest: aaZTvlstGfT9jh4p8oCGGg==
+
+Name: com/cloudgarden/audio/AudioSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: cM8di5YiKOlBK07WCRWl8gLzoaI=
+MD5-Digest: CkG5bW4I3/6bw3+GN1dc5Q==
+
+Name: com/cloudgarden/audio/AudioSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AsO+3paNm3815gakLZaO58JKmQU=
+MD5-Digest: 6rx+S55Xqm3N5urzLf3B/A==
+
+Name: com/cloudgarden/audio/AudioSplitter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: +Bxh83ETpF2YKGrOxzoNB9aFlTI=
+MD5-Digest: AiBzc+2OA4QhbJS0TLGpSQ==
+
+Name: com/cloudgarden/audio/AudioStreamSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: nK6fZtsuNspD9nVvyr+lfpbh368=
+MD5-Digest: YXJrAPBIZlIjX/ya7BSVpA==
+
+Name: com/cloudgarden/audio/CGDataSink$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qIbqGHxtx/R95twsWBLUiaZFkIY=
+MD5-Digest: ppSuxC54rwrwa4g2jx5yGw==
+
+Name: com/cloudgarden/audio/CGDataSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: M40uy8oD62euwdGcY/LJExVGR5k=
+MD5-Digest: UPzkhL1B9FtEGR0Fy/XO1g==
+
+Name: com/cloudgarden/audio/CGPullBufferDataSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HV/Z8aXCY4eXJkBGH/vcZAgezMU=
+MD5-Digest: 8td6W/MJyrSHLenVdm+bjQ==
+
+Name: com/cloudgarden/audio/CGPullBufferStream.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: tuaLwadqO7ILz+XIflc/71OdNF8=
+MD5-Digest: srZP5CAwfVKhVj25lUD/DA==
+
+Name: com/cloudgarden/audio/CGPullDataSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: YxmuSJmjGMAHJiHXQ7kvcJB227g=
+MD5-Digest: tbz9LKE6wukw45OE8bZe3A==
+
+Name: com/cloudgarden/audio/CGPullSourceStream.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: i3cWOvzZFQXsKwHb5E2lOtkbxhs=
+MD5-Digest: vEfvqa7GtDnoJ1tBCyMcDA==
+
+Name: com/cloudgarden/audio/CGPushBufferDataSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NbZ9GtbdqSsGXbd3Tax1nOVUye0=
+MD5-Digest: FsHDShCrBAAoQpdt0TlxMw==
+
+Name: com/cloudgarden/audio/CGPushBufferStream.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: kqqQWDxhjReRjTOcB0YAEXjducs=
+MD5-Digest: e7JlAIG8btoJe9kMIohjgQ==
+
+Name: com/cloudgarden/audio/CGPushDataSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6j8mMXDl5s/DHoyWoueqsGH/cH0=
+MD5-Digest: dQQU1i/nBj/DiNfrRkV5OA==
+
+Name: com/cloudgarden/audio/CGPushSourceStream.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QIOSwj0NNz+zMVvkghX2wvAaUf4=
+MD5-Digest: lo1F0JvHX55g+jtE3NuaEg==
+
+Name: com/cloudgarden/audio/CGSourceStream.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: S82ZKQMkweHrzld1di1qIx/7Dy4=
+MD5-Digest: NtE0+4C42hSzBdhlRBf0pg==
+
+Name: com/cloudgarden/audio/ClientAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: a+sNP5y9LjlLG2XYN8+TC4uAfjU=
+MD5-Digest: L6R7R1NVvIOoGkXakqGcSQ==
+
+Name: com/cloudgarden/audio/ClientEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wO8w36Xcw9BYkT2CgLJBzggEKWM=
+MD5-Digest: zcSdM8rHIohPtvG8RuqqLQ==
+
+Name: com/cloudgarden/audio/ClientListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2n/45IsVNjXBj2pW8czI8ddYeVw=
+MD5-Digest: 7JDrgox8/avdeiHGUo4olQ==
+
+Name: com/cloudgarden/audio/DefaultAudioClient.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 9eLOpLSoNy9uIXW739MmiRLRAYQ=
+MD5-Digest: s4TGLLmRU9YcyQxpRcOdtA==
+
+Name: com/cloudgarden/audio/DefaultAudioConnector.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: CtEM1ZGRosbDtuMF4KkInUW0MI4=
+MD5-Digest: E5y+fNhUI0KFUVd+zvR5bA==
+
+Name: com/cloudgarden/audio/DefaultAudioConverter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 3HVHuuUM4vWgNQzbyZRckKTGGpE=
+MD5-Digest: 9BdWtE6qR5LjvoyzZtz7Ww==
+
+Name: com/cloudgarden/audio/DefaultAudioObject.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PNLO8xHsA/S8I91zJa+SvPPX4jc=
+MD5-Digest: nuCdcxQ3dmyHkgsJWZv3pw==
+
+Name: com/cloudgarden/audio/DefaultAudioSink.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ucE2tZzc8T4zOXL/26YNVa5oSMk=
+MD5-Digest: oCnC1kM6CukQK6bdfvV7hg==
+
+Name: com/cloudgarden/audio/DefaultAudioSource$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: oYQZNizvdjulD4RvwuKh5QL64Iw=
+MD5-Digest: Nm/qidSGg3Hne+Dw/VCDtg==
+
+Name: com/cloudgarden/audio/DefaultAudioSource.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ZFp9RBdHEAjVahVPvidzo3W/uHE=
+MD5-Digest: EPGlUD7ai0vhxsnUinIMbg==
+
+Name: com/cloudgarden/audio/ServerListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0An6BU5AW2TmpTvl5vcP9XXnJBU=
+MD5-Digest: OkD/8wmrfQiWnitwffaokw==
+
+Name: com/cloudgarden/audio/TransferEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: pGHk2/oRXD60754eHbfXjQSCO6o=
+MD5-Digest: xfmHkUYHrhAps6UNBZ3oSQ==
+
+Name: com/cloudgarden/audio/TransferListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: BK+LwLbVYgENpo4eJTWe1FXUN4E=
+MD5-Digest: 13UzBcXclbrn527JEULRaQ==
+
+Name: javax/speech/AudioAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: UT6CpNDYzVgWAOKZpmGn5Xvtx6Y=
+MD5-Digest: x6Wc9gONMdn4Oau+MqYYHA==
+
+Name: javax/speech/AudioEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: V6HxDmlw0MwlnZvVaK20ym75XK8=
+MD5-Digest: uFapd81f0OUPPQu6+papgA==
+
+Name: javax/speech/AudioException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: VPCDoJO2tsBE7mnANvqOfEkZI2k=
+MD5-Digest: 75U+nQCesREmFGdE4eBNDg==
+
+Name: javax/speech/AudioListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HYX8fVko8xt8ZzE5N0j1VHefn4I=
+MD5-Digest: FQmJwmLVYqZiruod0SON/Q==
+
+Name: javax/speech/AudioManager.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6bHf5ObBINe/QsrjUCd60c5o9Ck=
+MD5-Digest: GFufIiQmUwcwAZu+Z1OfDw==
+
+Name: javax/speech/Central.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6nXc8GORD3QrjJYHI/ZAJIvhSO4=
+MD5-Digest: YBo1jNgLoBpe7JE+JSquIg==
+
+Name: javax/speech/Engine.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: R7jqDafsjcGhv2foUFGk6GFxheY=
+MD5-Digest: 7rMsuaJ+K2t1MNGy7ZxUOQ==
+
+Name: javax/speech/EngineAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ztEGEopzcgJZYdghdLBVnl3yjOs=
+MD5-Digest: ZWGWkU4AC05tHc3ENPZsFA==
+
+Name: javax/speech/EngineCentral.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ludApMVQuCEfZOp+92XNcTr4iOI=
+MD5-Digest: pXbYFemvWAtVFBsmQI9Fkg==
+
+Name: javax/speech/EngineCreate.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 7JdZNCEkUMzgESTTrzlp6GSXwEs=
+MD5-Digest: d/ydBoAsbhFMpNOE2HQdEA==
+
+Name: javax/speech/EngineErrorEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: YfTODe/BmYBCsCIFfV4minVcf+c=
+MD5-Digest: VSYQZLAeBxXA41eFFbk0ag==
+
+Name: javax/speech/EngineEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: hItNWjk7X2+PpEUGpEVdFJxkrrU=
+MD5-Digest: 5k7rdJxlDDXDogphwoMLcw==
+
+Name: javax/speech/EngineException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WI/DvNThX/mvVN9hxOAOUSMlhh8=
+MD5-Digest: /+e1JrzyrxUyXOh5blGIKQ==
+
+Name: javax/speech/EngineList.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ur7dAXJ5Bhccw/MEY+x0plx5ZBQ=
+MD5-Digest: 1/tdDNHOKRask+QNnfTJug==
+
+Name: javax/speech/EngineListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: WuOtM/nJM9/uTBnhejmmK4L4b+Y=
+MD5-Digest: F15waZhP5DJX0hMXoFwmYQ==
+
+Name: javax/speech/EngineModeDesc.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NsgvwwQvN1kB6QXo0IPQQVJMJAk=
+MD5-Digest: jiHRJJq1J4IoaIi9avjj/g==
+
+Name: javax/speech/EngineProperties.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: bMp2p72TXASj9lzBuXN6EMv/4V8=
+MD5-Digest: 9pbO8GFGCuVdoameiNk6ug==
+
+Name: javax/speech/EngineStateError.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lZo1hDQMMsKtVPgwSlbRVDulX/w=
+MD5-Digest: AfZfW1PuC+bGx3thU+6ufg==
+
+Name: javax/speech/Fields.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: A1w4PzC1UjDHGVIQHyMvynqqrTU=
+MD5-Digest: cYZOiH12zGopx+RH4Ozqtw==
+
+Name: javax/speech/Security.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: u0nToRA25E3mlwO0mKXuQz3qVyk=
+MD5-Digest: LfzDknMf0Z8ZoFbPn21YGQ==
+
+Name: javax/speech/SpeechError.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TWuw4BvRfdpJm+wHIOseGmx5g8E=
+MD5-Digest: kKZkNQPnBDPBwZXQ3t8iuA==
+
+Name: javax/speech/SpeechEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dsUJm6YdGHdXzD34t2kJg/Titb0=
+MD5-Digest: Pj9ZwfE6mVEVpeIzikH6Xg==
+
+Name: javax/speech/SpeechException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: isJjXzi1dLB/q9jkmmUoZfs73wY=
+MD5-Digest: E77rgYUQQC9PEVxw2X2Rfg==
+
+Name: javax/speech/SpeechPermission.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: GpjNGiKGYa45CMo3yCVpGEdNMhw=
+MD5-Digest: oIwP6OuhNgwFw5TUP5vchg==
+
+Name: javax/speech/VendorDataException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LQuCMjPw5sVK+xvDxbjwU9y4hzs=
+MD5-Digest: EvuvRvpCNiyTsmp3zQJKPg==
+
+Name: javax/speech/VocabManager.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: V3JJMXmp0L5Tm+yZG//lOlAhQ2o=
+MD5-Digest: +vk6WKvXDmRL0s2PmZ+ORg==
+
+Name: javax/speech/Word.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TIdVJwXjRUI5SJFerDqB94nfIgQ=
+MD5-Digest: GyWdPwjPNS+iY84oWRIczQ==
+
+Name: javax/speech/recognition/DictationGrammar.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iSkXPTH/o28qAedgpqDvVJygwNQ=
+MD5-Digest: ZXdvFDP+M6znbkI/4YzJfg==
+
+Name: javax/speech/recognition/FinalDictationResult.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: hwAdW6PxeglG1IxMFc3egnpwvtw=
+MD5-Digest: Db+ySiCyoSqi/xacJDFN8g==
+
+Name: javax/speech/recognition/FinalResult.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0YYJmLWOhNmTNy/QKC4NOO9WCII=
+MD5-Digest: cDeiLYqi/gq4hiQg6S+Wkg==
+
+Name: javax/speech/recognition/FinalRuleResult.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: IwA//wNGpxzivqktmVSHhMBw5gk=
+MD5-Digest: TsDGOh4OR/9HShhYK/NtYg==
+
+Name: javax/speech/recognition/Grammar.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: fCiw8xVR5JQrWmHFFmlR7zSvP9w=
+MD5-Digest: rbs37FOBgSAAOuwSW7B6/g==
+
+Name: javax/speech/recognition/GrammarAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 88+ShL942F6DRySCofGD4A2dOFo=
+MD5-Digest: 0njpxbzeM1DHbtGcJCtziA==
+
+Name: javax/speech/recognition/GrammarEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Pu9FzLCTw00VPDDi1NnZZztsFz0=
+MD5-Digest: VDmcRcG8fRBdl+t1n8CJHA==
+
+Name: javax/speech/recognition/GrammarException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 4xEwh2p+THyNJf+1SINTwD6EMeo=
+MD5-Digest: qK2vGHOLM5rs/e2wdnAL4g==
+
+Name: javax/speech/recognition/GrammarListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 91N892U2a4A6AxWaQr0mQfTb/hk=
+MD5-Digest: nfM8a5QKqo4dWgHqS7u3oA==
+
+Name: javax/speech/recognition/GrammarSyntaxDetail.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: YJvm1+FT4K68gfJOjOh8iw4eJTQ=
+MD5-Digest: vWkOLHLkzT4yWorlSMYAeA==
+
+Name: javax/speech/recognition/Recognizer.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /1VgMxQyLHhbkXGYFMoR5J2yqrg=
+MD5-Digest: 5WGRNUfuhcMaxfWCuWSmMw==
+
+Name: javax/speech/recognition/RecognizerAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qQf66hRfHd7Y+jgqHrWpNJCAIO4=
+MD5-Digest: tqWXGlwToO6xfJSBqXolng==
+
+Name: javax/speech/recognition/RecognizerAudioAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ocBFiwmeVCmPvRSTDZm9FW8uaNI=
+MD5-Digest: AACOixRGRWa6qWyau4gbcg==
+
+Name: javax/speech/recognition/RecognizerAudioEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: aMhBmb4sRDCD4I0zm42IFsdcUDM=
+MD5-Digest: JhSh6mw6/Xyy6rP4MxSTng==
+
+Name: javax/speech/recognition/RecognizerAudioListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ZuFw134Cx/4KdzCfGjvgARRvrRk=
+MD5-Digest: ARvU4+qeBFWaAAd6rnygow==
+
+Name: javax/speech/recognition/RecognizerEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: hd0ScNAcXlS8Tpr6yVJBmiSxCN4=
+MD5-Digest: YIUoJBAzEFC8MAwljcsKAA==
+
+Name: javax/speech/recognition/RecognizerListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: i0N4jEypNUFkKvWqqrn8V9G6zzc=
+MD5-Digest: RkUOstqVR56e35k1RGKwUw==
+
+Name: javax/speech/recognition/RecognizerModeDesc.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2Bl7AXSPwXwEU/SFAqzv7dJP+HI=
+MD5-Digest: LqduiCVSAktZDNcJFf6zGQ==
+
+Name: javax/speech/recognition/RecognizerProperties.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 5Pp1gF93nsnnLb1jgq+P5TSwqKY=
+MD5-Digest: RP+hAN3Df+H90HlqzXLXhA==
+
+Name: javax/speech/recognition/Result.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: xNZkXlUMBbssNNVNK/+RICalZE0=
+MD5-Digest: v+4/GCYpI15M0uocYgdOJQ==
+
+Name: javax/speech/recognition/ResultAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ftyFmmyK8KEZO8j3nuk82ldSFmY=
+MD5-Digest: YiMViQRlFYURQBiRk+Az2A==
+
+Name: javax/speech/recognition/ResultEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RbB4/3BKd/F4LqKz/ishSZ0fwRk=
+MD5-Digest: VBjW4TYhHYFrNlGJtgw93g==
+
+Name: javax/speech/recognition/ResultListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: mKknaSxeasFXbvu/HPZ/X+b+KJk=
+MD5-Digest: YEu2piCGUoLbzXosbKsQbQ==
+
+Name: javax/speech/recognition/ResultStateError.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NROp2lCrKnAUns7+Vaeto8ufy1A=
+MD5-Digest: qzGoFFLlE5zi5rBU4vYM6Q==
+
+Name: javax/speech/recognition/ResultToken.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: T4UKr1DKsIZVT8e7XraX4/JxSFA=
+MD5-Digest: lu+PrjWPzZb0oNUFlrDjuA==
+
+Name: javax/speech/recognition/Rule.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: VjaPprTiYGi31JLqi/yXqWvHlMU=
+MD5-Digest: YsDrjkdITwa2pGTh79GK7A==
+
+Name: javax/speech/recognition/RuleAlternatives.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: de0UdlI9bFOKefHDKPOwxQaRkTk=
+MD5-Digest: wSJjJzaBCBPM3azYz/Vp+g==
+
+Name: javax/speech/recognition/RuleCount.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: fq04KsTDT9atjd5/w4gdaOjrZi8=
+MD5-Digest: mqHKzfLDUq1zWifJbSKIfw==
+
+Name: javax/speech/recognition/RuleGrammar.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: DTT/tLKxeWIUUSZ/9pl5B4gePvg=
+MD5-Digest: fg8Z7/Owj7mSxWuX0ILE8w==
+
+Name: javax/speech/recognition/RuleName.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: VXXWogRDxX3RJxdDgak87D6FZZI=
+MD5-Digest: MzBGUjYgVolmMi+mUvBxMA==
+
+Name: javax/speech/recognition/RuleParse.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qtR4T90OO9O4EAteHXQYlMiQcvQ=
+MD5-Digest: zA262eGjEDr3nxBzeYca9w==
+
+Name: javax/speech/recognition/RuleSequence.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: oDI/mees8Q2dqNCvuK60UYqS/50=
+MD5-Digest: dF2Gjk40pe2iNx/hJa355g==
+
+Name: javax/speech/recognition/RuleTag.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qA5siykIh+/ZGHZzUTiAE4V66IE=
+MD5-Digest: hW+HReqwND62JNszQq8OwQ==
+
+Name: javax/speech/recognition/RuleToken.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: EOCj9lvthuR55gRRs1nvxLaOWrE=
+MD5-Digest: hd8wFg0nIaAcXi8KNVr92g==
+
+Name: javax/speech/recognition/SpeakerManager.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RjQ/fd+5UNAsKZ/YMtzQ83Ojuwg=
+MD5-Digest: 3TSTd1/L0MMWqGrU23K1Bw==
+
+Name: javax/speech/recognition/SpeakerProfile.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LAFq7FzYlAv4Vb3ZOdGV9FIGecc=
+MD5-Digest: CwrNY5KWEZG2bzPOqw8oQw==
+
+Name: javax/speech/synthesis/JSMLException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: reEduIZF2df2JSci+vkXNj9xqNg=
+MD5-Digest: Wcx1JOHdSYflG5m44MhVfw==
+
+Name: javax/speech/synthesis/Speakable.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2iqfHJ/K3avW2LIwQD/taYzwKFw=
+MD5-Digest: A2t6vwvAR8cMo/GHmyw77A==
+
+Name: javax/speech/synthesis/SpeakableAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Vobtneb4yqYHMkBHyjO9VDlj4Ng=
+MD5-Digest: NqDTrxBmlrg9Gv6MLeOgwQ==
+
+Name: javax/speech/synthesis/SpeakableEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 3iqbroTzlWllK/MRXnDnw8H5/fc=
+MD5-Digest: Hnl3A9W2u+BIKCAFgnpYig==
+
+Name: javax/speech/synthesis/SpeakableListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: CWExm82D1BF0nC+rVVeXkE3Ap/c=
+MD5-Digest: Nxeotu7ym9wVC+TosbvWCg==
+
+Name: javax/speech/synthesis/Synthesizer.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: CGzb5eaBHuKJZO7rX3c6VCxQPoU=
+MD5-Digest: zlNmxKpGFiogFPcTNV1uww==
+
+Name: javax/speech/synthesis/SynthesizerAdapter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qoemcJwoWsdp1M2kTk9ABBaCtuo=
+MD5-Digest: d0nlSDrPSQuEEoW4FN2meg==
+
+Name: javax/speech/synthesis/SynthesizerEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: OWK5Wh9fpYcZrArwB7YsYG/XAIw=
+MD5-Digest: o0rPe1jWOWicUnVF3PSjsw==
+
+Name: javax/speech/synthesis/SynthesizerListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 8AQVeuCiihycnNCP8NUSOBrKKQ4=
+MD5-Digest: umqSOz9Iq0XnSmJhMt7scg==
+
+Name: javax/speech/synthesis/SynthesizerModeDesc.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: e+Yv+ctuokXkHXSLB4mqVaVwFTs=
+MD5-Digest: Rq1Q0Bnj1XYV9zcrsSJx2Q==
+
+Name: javax/speech/synthesis/SynthesizerProperties.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: xgCOC4yYAKZHKp+FEkguisvflPM=
+MD5-Digest: 5kMd/i7QAzJ6E40PxaG+3w==
+
+Name: javax/speech/synthesis/SynthesizerQueueItem.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: hw91xe6Ouzk5fiIGoEeRfBg6sUk=
+MD5-Digest: ueQ5XetKre0wYQuvudm3BQ==
+
+Name: javax/speech/synthesis/Voice.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6Gej1573PNyYX/L0PEK64uw/uWU=
+MD5-Digest: gs36GBE3UTpLzWRh/Cwavw==
+
+Name: com/cloudgarden/speechapps/voicepad/MPEGFileWriter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: adaANHP/DFfKBjMS+f5u+FlfFg8=
+MD5-Digest: bXfGwgSA5269X0z6ZoAAoQ==
+
+Name: com/cloudgarden/speechapps/voicepad/ProgressWindow$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: KOK3hUR6fzEm9SvNtSQD2No2YA4=
+MD5-Digest: Fc/BAd5CfeJZxlphRcIzXg==
+
+Name: com/cloudgarden/speechapps/voicepad/ProgressWindow.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: FUX1uvho51K1WEGKcBzmXn112DY=
+MD5-Digest: +fDLCZmycCo+CQImBkDVfg==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: aJknjT6rES6uWmjFh1Bg3uAdIr4=
+MD5-Digest: o60FyXtzFB/9jSalv223Kg==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$10.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ziWt/vkBMrkoKjsOzBYd6SAH+oM=
+MD5-Digest: SH86aIHVhyqaG2rVsf2LAg==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$11.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iIwESCTrvjIR+3TpinoEbUaKeWA=
+MD5-Digest: WG4l2wW6yhPx2CN1ROOjqQ==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$12.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LxjDuXRhAcVjfuOt8jGnSS998Oc=
+MD5-Digest: otODLTaEViNWSd+pOmCyXA==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$13.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: +Jtt8mQqLK4y47AOG5U2L7TQ8NU=
+MD5-Digest: 7iRaFcr+/HgugdY1fS1N2g==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$14.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: jmMLpPtJYg6J0udfdYtjE7VKk1Y=
+MD5-Digest: N7JAH7+kufS1+OLzKpQVsQ==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$15.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1foh8U+A6iu+mL2ec8RS4ihOvOc=
+MD5-Digest: 4fkSsgWvPb1epQw+F8j0/A==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: FGy2L+s68zNg96mZ8IhnVmpEqn4=
+MD5-Digest: UEKDNixGy7gDoIRo4h61/Q==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1MfzaMyN39ZDmtqSevHUOMM2LAg=
+MD5-Digest: lzuVusHXWyL3ji7jO7hn3g==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: BCOOzfWx3VYCI4jiXCl6JcgeiOc=
+MD5-Digest: fI35WI388E8ln3DjCv7s3A==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$5.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: XYIVT8oTLA6610GThnb9CdFKp70=
+MD5-Digest: M7Q4jz8dJ5bzqpzjwTWmhw==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$6.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: JK82dGirIfz4AMLfDZY8GWYMwjU=
+MD5-Digest: KN+2mx2v5Apyny27mrB9hQ==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$7.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: xsBgaLLErN8soErZNYfZFT5z2pw=
+MD5-Digest: 6M9DsyLPqKvzPdEHhRVI4w==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$8.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: DR1rrRrtCddbtaWzBYV/1617ek0=
+MD5-Digest: OU0UQ19l9opS3kUMWpYD8g==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad$9.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: epZAO7tQL5V2bIOURsIcTlvTnrk=
+MD5-Digest: 6zUc+6DjsOuMRloeVZz9tQ==
+
+Name: com/cloudgarden/speechapps/voicepad/VoicePad.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: i0bESGGkRuqSEpTFRJaUX7qvhcI=
+MD5-Digest: fIV1IPwNPjl2YkVnE1pqBw==
+
+Name: com/cloudgarden/speechapps/voicepad/WAVFileWriter.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: jsuV5xjrGHuLVho12DNrrnUgGmY=
+MD5-Digest: xf2qBwu69KFuTBYMKu/Ymg==
+
